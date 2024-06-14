@@ -1,1 +1,1 @@
-nocobase/nocobase::latest
+nocobase/nocobase:latest
