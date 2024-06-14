@@ -1,1 +1,2 @@
 nocobase/nocobase:latest
+iocmajiang/majiang:latest
