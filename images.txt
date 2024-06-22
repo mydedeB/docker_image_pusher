@@ -1,1 +1,1 @@
-gcpaas/dataroom:latest
+mongo:latest
