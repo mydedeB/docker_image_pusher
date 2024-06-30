@@ -1,1 +1,1 @@
-vvveb/vvvebjs:latest
+appsmith/appsmith-ce:latest
