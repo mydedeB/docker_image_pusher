@@ -1,1 +1,1 @@
-appsmith/appsmith-ce:latest
+mysql:latest
