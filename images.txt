@@ -1,1 +1,1 @@
-mysql:latest
+zhayujie/chatgpt-on-wechat:latest
