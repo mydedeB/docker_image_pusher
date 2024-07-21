@@ -1,1 +1,2 @@
-zhayujie/chatgpt-on-wechat:latest
+amazon/aws-lambda-nodejs:latest
+dockette/nodejs:latest
