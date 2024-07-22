@@ -1,2 +1,1 @@
-amazon/aws-lambda-nodejs:latest
-dockette/nodejs:latest
+ubuntu:latest
