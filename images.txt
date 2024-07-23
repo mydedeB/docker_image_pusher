@@ -1,1 +1,1 @@
-ubuntu:latest
+cloudtogouser/pageplug-ce:latest
