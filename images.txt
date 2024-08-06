@@ -1,1 +1,1 @@
-moushengkoo/lowcoder_cn:latest
+tooljet/try:EE-LTS-latest
