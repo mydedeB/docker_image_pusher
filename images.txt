@@ -1,1 +1,1 @@
-pageplug-ce:v1.9.37
+pageplug-ce:1.9.37
