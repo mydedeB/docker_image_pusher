@@ -1,1 +1,1 @@
-appsmith/appsmith-ce
+pageplug-ce:v1.9.37
