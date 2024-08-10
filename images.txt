@@ -1,1 +1,1 @@
-appsmith-ce:latest
+appsmith/appsmith-ce :latest
