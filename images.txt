@@ -1,1 +1,1 @@
-pageplug-ce:1.9.37
+cloudtogouser/pageplug-ce:v1.9.37
