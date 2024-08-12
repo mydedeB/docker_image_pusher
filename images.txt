@@ -1,1 +1,1 @@
-cloudtogouser/pageplug-ce:v1.9.37
+lowcoderorg/lowcoder-ce:latest
