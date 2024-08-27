@@ -1,1 +1,1 @@
-nocobase/nocobase:v1.2.39-alpha
+nocobase/nocobase:1.2.39-alpha
