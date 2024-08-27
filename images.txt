@@ -1,3 +1,1 @@
-lowcoderorg/lowcoder-ce:2.4.5
 n8nio/n8n:1.56.2
-nocobase/nocobase:1.2.4-alpha
