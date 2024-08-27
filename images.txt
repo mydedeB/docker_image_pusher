@@ -1,1 +1,1 @@
-lowcoderorg/lowcoder-ce:latest
+nocobase/nocobase:v1.2.39-alpha
