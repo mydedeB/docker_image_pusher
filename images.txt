@@ -1,1 +1,1 @@
-nocobase/nocobase:1.2.39-alpha
+n8n-io/n8n:1.57.0
