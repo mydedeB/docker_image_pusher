@@ -1,1 +1,1 @@
-orthogridsystems/docker-osx:latest
+sickcodes/docker-osx:sonoma
