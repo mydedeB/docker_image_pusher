@@ -1,1 +1,1 @@
-iocmajiang/majiang:latest
+sickcodes/docker-osx:latest
