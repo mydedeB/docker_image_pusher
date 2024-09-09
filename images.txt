@@ -1,1 +1,1 @@
-orthogridsystems/docker-osx:sonoma
+wrodpress/wordpres:6.6.2
