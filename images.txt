@@ -1,1 +1,1 @@
-wrodpress/wordpres:6.6.2
+wrodpress/wordpres:6.6.1
