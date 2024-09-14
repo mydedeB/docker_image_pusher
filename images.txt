@@ -1,1 +1,3 @@
-wordpress:6.6.2
+wordpress:latest
+lowcoderorg/lowcoder-ce:latest
+n8nio/n8n:latest
