@@ -1,6 +1,1 @@
-wordpress:latest
-lowcoderorg/lowcoder-ce:latest
-n8nio/n8n:latest
-mysql:5.7
-redis:5.0
-nginx:alpine
+crmeb_php:latest
