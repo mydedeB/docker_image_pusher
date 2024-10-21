@@ -1,1 +1,1 @@
-likeshop/php-b2c:latest
+redis:alpine
