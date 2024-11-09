@@ -1,1 +1,1 @@
-lowcoderorg/lowcoder-ce:latest
+moushengkoo/lowcoder_cn:latest
