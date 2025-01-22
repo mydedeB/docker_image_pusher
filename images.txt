@@ -1,4 +1,1 @@
-n8nio/n8n:latest
-lowcoderorg/lowcoder-ce:latest
-wordpress:latest
-mysql:8.0.41
+mzz2017/v2raya:latest
