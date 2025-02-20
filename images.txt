@@ -1,1 +1,1 @@
-lowcoderorg/lowcoder-ce:latest
+1panel/maxkb:v1.10.1-lts
