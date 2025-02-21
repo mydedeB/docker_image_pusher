@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.60.0
+ollama/ollama:0.5.11
