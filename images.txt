@@ -1,1 +1,1 @@
-zhayujie/chatgpt-on-wechat:latest
+php:7.4.33-fpm-alpine
