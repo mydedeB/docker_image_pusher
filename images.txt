@@ -1,1 +1,1 @@
-lowcoderorg/lowcoder-ce:2.6.3
+jeessy/ddns-go:v6.8.1
