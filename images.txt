@@ -1,1 +1,1 @@
-redis:7.4.2
+lowcoderorg/lowcoder-ce:2.6.3
