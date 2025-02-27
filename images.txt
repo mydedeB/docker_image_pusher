@@ -1,1 +1,1 @@
-jeessy/ddns-go:v6.8.1
+snowdreamtech/frps:0.61.1
