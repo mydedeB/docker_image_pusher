@@ -1,1 +1,1 @@
-ghcr.io/remsky/kokoro-fastapi-ui:v0.2.2
+edge-tts-ui:3.0
