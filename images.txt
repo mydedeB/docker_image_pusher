@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.61.1
+ghcr.io/remsky/kokoro-fastapi-gpu:v0.2.2
