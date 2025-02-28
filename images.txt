@@ -1,1 +1,1 @@
-breakstring/gpt-sovits:latest-elite
+ghcr.io/remsky/kokoro-fastapi-ui:v0.2.0
