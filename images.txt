@@ -1,1 +1,1 @@
-edge-tts-ui:3.0
+breakstring/gpt-sovits:latest-elite
