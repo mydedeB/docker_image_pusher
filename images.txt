@@ -1,1 +1,1 @@
-ghcr.io/lecode-official/comfyui-docker:latest
+obeliks/comfyui:master-cu124
