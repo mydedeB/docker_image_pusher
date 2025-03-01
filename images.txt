@@ -1,1 +1,1 @@
-harryliu888/cosyvoice:latest
+ghcr.io/lecode-official/comfyui-docker:latest
