@@ -1,1 +1,1 @@
-ekrata/echomimic_v2:latest
+ubuntu:latest
