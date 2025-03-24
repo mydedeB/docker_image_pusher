@@ -1,1 +1,1 @@
-ubuntu:latest
+ollama/ollama:latest
