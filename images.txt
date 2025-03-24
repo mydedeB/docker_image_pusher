@@ -1,1 +1,3 @@
-ollama/ollama:latest
+guiji2025/heygem.ai
+guiji2025/fish-speech-ziming
+guiji2025/fun-asr
