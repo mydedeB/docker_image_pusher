@@ -1,1 +1,1 @@
-kasmweb/chrome:1.8.0-edge
+browserless/chrome:latest
