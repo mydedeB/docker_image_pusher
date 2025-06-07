@@ -1,1 +1,1 @@
-jlesage/firefox:latest
+v2fly/v2fly-core:latest
