@@ -1,1 +1,1 @@
-v2fly/v2fly-core:latest
+lowcoderorg/lowcoder-ce:latest
