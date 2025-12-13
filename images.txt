@@ -1,1 +1,1 @@
-hiyouga/llamafactory:latest
+lowcoderorg/lowcoder-ce:latest
