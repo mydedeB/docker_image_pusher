@@ -1,1 +1,1 @@
-playedu/playedu:latest
+1panel/openclaw:2026.3.13
