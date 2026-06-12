@@ -1,1 +1,2 @@
-1panel/openresty:1.31.1.1-0-noble
+redis:8.6-alpine
+frappe/erpnext:v16.22.0
