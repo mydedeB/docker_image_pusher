@@ -1,2 +1,1 @@
-redis:8.6-alpine
-frappe/erpnext:v16.22.0
+1panel/maxkb
