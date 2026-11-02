@@ -1,1 +1,1 @@
-forceless/deeppresenter-sandbox:latest
+cloudflare/cloudflared:latest
