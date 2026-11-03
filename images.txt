@@ -1,1 +1,1 @@
-cloudflare/cloudflared:latest
+shanyuhai123/cloudflare-speedtest-updater
