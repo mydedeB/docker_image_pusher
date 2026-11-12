@@ -1,1 +1,1 @@
-litellm/litellm:latest
+litellm/litellm:main-latest
