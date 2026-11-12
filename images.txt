@@ -1,1 +1,1 @@
-docker.xuanyuan.run/litellm/litellm:latest
+litellm/litellm:latest
