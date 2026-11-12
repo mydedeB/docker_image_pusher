@@ -1,1 +1,1 @@
-shanyuhai123/cloudflare-speedtest-updater:latest
+docker.xuanyuan.run/litellm/litellm:latest
